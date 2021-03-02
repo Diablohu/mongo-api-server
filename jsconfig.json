@@ -1,0 +1,10 @@
+// See https://go.microsoft.com/fwlink/?LinkId=759670
+// for the documentation about the jsconfig.json format
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "module": "esnext",
+        "baseUrl": "."
+    },
+    "exclude": [".*", "dist", "node_modules"]
+}
